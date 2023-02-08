@@ -1,0 +1,39 @@
+body[data-theme="light"] {
+   @import '../light-slider.scss';
+
+   .slider-tab {
+      background-color: #D7CAAA;
+   }
+
+   .button {
+      -moz-transition: all .2s ease-in;
+      -o-transition: all .2s ease-in;
+      -webkit-transition: all .2s ease-in;
+      transition: all .2s;
+      transition-duration: 1s;
+      background: #efe1bd;
+      color: #383838;
+      border: solid;
+      border-color: #efe1bd;
+      border-radius: 5px;
+      font-size: large;
+      padding: 1rem;
+      letter-spacing: 3px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-align: center;
+      font-weight: 400 !important;
+   }
+
+   .button:hover {
+      background-color: #fff;
+      /* Green */
+      color: #000000;
+      opacity: 1;
+   }
+
+   .social-refs {
+      color: black;
+
+   }
+
+}

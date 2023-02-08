@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": [
+      "👋 I'm Joaquin Delgado, an IT Developer. I've been specializing in Web Development for over a year, obtaining certificates, working on projects, and attending a bootcamp at SoyHenry. During this time, I have been working with the following technologies:",
+      "· HTML, CSS, JavaScript, Typescript",
+      "· React, Redux, MaterialUI",
+      "· NodeJS, Express, Sequelize",
+      "· PostgreSQL, MySQL",
+      "· Git, GitHub",
+      "🎯 Goals: As a Developer, i want to improve my tech skills as my softs, working on proyects where i can deepen my knowledge of these technologies or others such as NextJS or NestJS as part of a work team with similar expectations."
+    ],
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "contact": "Contact"
+    },
+    "curriculum": {
+      "title": "Download CV",
+      "url": "https://drive.google.com/file/d/1cWWLnQm6pcEShceKpFSyxVcPIsSksWUA/view"
+    }
+  },
+  "projects": [
+    {
+      "title": "Campy Proyect",
+      "fade": "fade-right",
+      "startDate": "2022",
+      "description": "🏕 Campy: Development of a responsive web application with a team of 6 developers. The main functionalities are to allow users to book the perfect campsite for their next trip to Argentina and to join a large community of travelers through a blog.",
+      "images": [
+        "images/portfolio/campy/p1.png",
+        "images/portfolio/campy/p2.png",
+        "images/portfolio/campy/p3.png",
+        "images/portfolio/campy/p4.png",
+        "images/portfolio/campy/p5.png",
+        "images/portfolio/campy/p6.png"
+      ],
+      "url": "https://campy-frontend.vercel.app/",
+      "github": "https://github.com/ACRUNO/Campy-frontend",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript",
+          "fade": "fade-left"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "fade": "fade-left",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "fade": "fade-left",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-react-original",
+          "fade": "fade-left",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "fade": "fade-left",
+          "name": "redux"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "fade": "fade-right",
+          "name": "Material-UI"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "fade": "fade-right",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-express-original",
+          "fade": "fade-right",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-sequelize-plain",
+          "fade": "fade-right",
+          "name": "Sequelize"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "fade": "fade-right",
+          "name": "MySQL"
+        }
+      ]
+    },
+    {
+      "title": "Henry Dogs Proyect",
+      "fade": "fade-left",
+      "startDate": "2022",
+      "description": "🐶 Henry Dogs: Personal project for study subject. The project is a Wikipedia of dogs, in which you can see in detail the characteristics of the different breeds that exist, you can search by name or filter the search taking into account the minimum/maximum weight, the minimum/maximum height, order alphabetic or temperament. In case the breed is not found in the app, any user can create one through a form with their respective validations.",
+      "images": [
+        "images/portfolio/henry-dogs/p1.png",
+        "images/portfolio/henry-dogs/p2.png",
+        "images/portfolio/henry-dogs/p3.png",
+        "images/portfolio/henry-dogs/p4.png"
+      ],
+      "url": "",
+      "github": "https://github.com/ACRUNO/PI-Joaquin-Delgado",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "fade": "fade-left",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-react-original",
+          "fade": "fade-left",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "fade": "fade-left",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "fade": "fade-left",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-express-original",
+          "fade": "fade-right",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-sequelize-plain",
+          "fade": "fade-right",
+          "name": "Sequelize"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "fade": "fade-right",
+          "name": "PostgreSQL"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "basic_info": {
+    "name": "Joaquin Delgado",
+    "titles": [
+      "Full-Stack Web Developer",
+      ""
+    ],
+    "social": [
+      {
+        "name": "Github",
+        "url": "https://github.com/ACRUNO",
+        "class": "fab fa-github experience-icon",
+        "fade": "fade-left"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/joaquin-delgado-2702391b0/",
+        "class": "fab fa-linkedin-in experience-icon",
+        "fade": "fade-left"
+      },
+      {
+        "name": "WhatsApp",
+        "url": "https://wa.me/5491169347379?text=Hola%20Joaquin!%20Me%20interesa%20tu%20perfil%20como%20Full-Stack%20developer",
+        "class": "fab fa-whatsapp experience-icon",
+        "fade": "fade-right"
+      },
+      {
+        "name": "Mail",
+        "url": "mailto:jotadelgado96@gmail.com",
+        "class": "far fa-envelope experience-icon",
+        "fade": "fade-right"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "fade": "fade-left",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "fade": "fade-left",
+        "level": "95"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "fade": "fade-left",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "fade": "fade-left",
+        "level": "70"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "fade": "fade-left",
+        "level": "85"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-plain",
+        "fade": "fade-left",
+        "level": "65"
+      },
+      {
+        "name": "Material-UI",
+        "class": "devicon-materialui-plain",
+        "fade": "fade-right",
+        "level": "80"
+      },
+      {
+        "name": "NodeJS",
+        "class": "devicon-nodejs-plain",
+        "fade": "fade-right",
+        "level": "65"
+      },
+      {
+        "name": "Express",
+        "class": "devicon-express-original",
+        "fade": "fade-right",
+        "level": "65"
+      },
+      {
+        "name": "Sequelize",
+        "class": "devicon-sequelize-plain",
+        "fade": "fade-right",
+        "level": "65"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
+        "fade": "fade-right",
+        "level": "60"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "fade": "fade-right",
+        "level": "60"
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "description_header": "Hola!",
+    "description": [
+      "👋 Soy Joaquin Delgado, desarrollador IT. Hace más de un año que llevo especializándome en el Desarrollo Web realizando certificados, proyectos y un bootcamp en SoyHenry. En ese tiempo me estuve desempeñando en las siguientes tecnologías: ",
+      "· HTML, CSS, JavaScript, Typescript",
+      "· React, Redux, MaterialUI",
+      "· NodeJS, Express, Sequelize",
+      "· PostgreSQL, MySQL",
+      "· Git, GitHub",
+      "🎯 Objetivos: Como desarrollador, aspiro mejorar tanto mis habilidades tech como las soft, integrándome en proyectos donde pueda profundizar en estas tecnologías u otras como NextJS o NestJS dentro de un equipo laboral con las mismas expectativas."
+    ],
+    "section_name": {
+      "about": "Acerca de mi",
+      "projects": "Projectos",
+      "skills": "Skills",
+      "contact": "Contacto"
+    },
+    "curriculum": {
+      "title": "Descargar CV",
+      "url": "https://drive.google.com/file/d/18iFer5gcMCzmHIFFhUGp7GwB7rd3Ll2h/view"
+    }
+  },
+  "projects": [
+    {
+      "title": "Proyecto Campy",
+      "fade": "fade-right",
+      "startDate": "2022",
+      "description": "🏕 Campy: Desarrollo integral de una aplicacion web responsive junto a un equipo de 6 desarrolladores. Las principales funcionalidades son permitirle a los usuarios reservar el camping perfecto para su próximo viaje por Argentina y unirse a una extensa comunidad de viajeros mediante un blog.",
+      "images": [
+        "images/portfolio/campy/p1.png",
+        "images/portfolio/campy/p2.png",
+        "images/portfolio/campy/p3.png",
+        "images/portfolio/campy/p4.png",
+        "images/portfolio/campy/p5.png",
+        "images/portfolio/campy/p6.png"
+      ],
+      "url": "https://campy-frontend.vercel.app/",
+      "github": "https://github.com/ACRUNO/Campy-frontend",
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript",
+          "fade": "fade-left"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "fade": "fade-left",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "fade": "fade-left",
+          "name": "CSS 3"
+        },
+        {
+          "class": "devicon-react-original",
+          "fade": "fade-left",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "fade": "fade-left",
+          "name": "redux"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "fade": "fade-right",
+          "name": "Material-UI"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "fade": "fade-right",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-express-original",
+          "fade": "fade-right",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-sequelize-plain",
+          "fade": "fade-right",
+          "name": "Sequelize"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "fade": "fade-right",
+          "name": "MySQL"
+        }
+      ]
+    },
+    {
+      "title": "Proyecto Henry Dogs",
+      "fade": "fade-left",
+      "startDate": "2022",
+      "description": "🐶 Henry Dogs: Desarrollo de una aplicación web. El proyecto es una wikipedia de perros, en la cuál se puede ver en detalle características de las diferentes razas que existen, se puede buscar por el nombre o filtrar la búsqueda teniendo en cuenta el peso mínimo/máximo, la altura mínima/máxima, orden alfabético o el temperamento. En caso de que la raza no se encuentre en la app, cualquier usuario puede crear una a través de un formulario con sus respectivas validaciones.",
+      "images": [
+        "images/portfolio/henry-dogs/p1.png",
+        "images/portfolio/henry-dogs/p2.png",
+        "images/portfolio/henry-dogs/p3.png",
+        "images/portfolio/henry-dogs/p4.png"
+      ],
+      "url": "",
+      "github": "https://github.com/ACRUNO/PI-Joaquin-Delgado",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "fade": "fade-left",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-react-original",
+          "fade": "fade-left",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "fade": "fade-left",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "fade": "fade-left",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-express-original",
+          "fade": "fade-right",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-sequelize-plain",
+          "fade": "fade-right",
+          "name": "Sequelize"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "fade": "fade-right",
+          "name": "PostgreSQL"
+        }
+      ]
+    }
+  ]
+}
