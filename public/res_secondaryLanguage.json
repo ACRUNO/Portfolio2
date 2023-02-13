@@ -23,7 +23,7 @@
   },
   "projects": [
     {
-      "title": "Campy Proyect",
+      "title": "Campy Project",
       "fade": "fade-right",
       "startDate": "2022",
       "description": "🏕 Campy: Development of a responsive web application with a team of 6 developers. The main functionalities are to allow users to book the perfect campsite for their next trip to Argentina and to join a large community of travelers through a blog.",
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "title": "Henry Dogs Proyect",
+      "title": "Henry Dogs Project",
       "fade": "fade-left",
       "startDate": "2022",
       "description": "🐶 Henry Dogs: Personal project for study subject. The project is a Wikipedia of dogs, in which you can see in detail the characteristics of the different breeds that exist, you can search by name or filter the search taking into account the minimum/maximum weight, the minimum/maximum height, order alphabetic or temperament. In case the breed is not found in the app, any user can create one through a form with their respective validations.",
